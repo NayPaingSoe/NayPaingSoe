@@ -8,21 +8,21 @@
   <img src="https://img.shields.io/badge/Backend-Laravel-ff2d20?style=for-the-badge&logo=laravel" />
 </p>
 
----
+
 
 ## 🌈 About Me
 💻 Web developer with **5+ years** of experience building modern, scalable, user-focused web apps.  
 ⚡ Passionate about clean UI, high-performance systems, and solving real business problems.  
 🌍 Experienced working with teams across **Myanmar, Thailand, Singapore & Australia**.
 
----
+
 
 ## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,redux,tailwind,vite,php,laravel,nodejs,express,mysql,git,docker" />
 </p>
 
----
+
 
 ## 🔥 Featured Projects
 
@@ -43,7 +43,6 @@ Secure payments, promo tools, real-time chat, responsive UI
 ### 🧾 **Retail POS System**
 Multi-branch control, inventory, supplier & employee management  
 
----
 
 ## 📫 Contact Me
 📧 **naypaingsoe1011@gmail.com**  
