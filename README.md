@@ -45,14 +45,6 @@ Multi-branch control, inventory, supplier & employee management
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NayPaingSoe&show_icons=true&theme=tokyonight&border_radius=12" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayPaingSoe&layout=compact&theme=tokyonight&border_radius=12" />
-</p>
-
----
-
 ## 📫 Contact Me
 📧 **naypaingsoe1011@gmail.com**  
 🌐 **github.com/NayPaingSoe**  
