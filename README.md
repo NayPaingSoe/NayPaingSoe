@@ -1,31 +1,62 @@
-# Hi, I'm Nay Paing Soe 👋  
-### Full-Stack Web Developer (React • Vue • Next.js • Laravel)
+<h1 align="center">Hi, I'm <span style="color:#4ade80">Nay Paing Soe</span> 👋</h1>
+<h3 align="center">🚀 Full-Stack Web Developer | React • Vue • Next.js • Laravel</h3>
 
-I’m a web developer with **5+ years of experience** building high-performance web apps, real-time systems, and modern front-end platforms. I focus on clean code, scalability, and great user experience.
-
----
-
-## 🚀 Skills
-**Frontend:** React, Next.js, Vue, Redux, Zustand, Typescript, Tailwind  
-**Backend:** Laravel, PHP, Node.js, Express  
-**Database:** MySQL  
-**Tools:** Git, CI/CD, Docker (basic), Vite, Material-UI  
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Frontend-Vue.js-42b883?style=for-the-badge&logo=vue.js" />
+  <img src="https://img.shields.io/badge/Backend-Laravel-ff2d20?style=for-the-badge&logo=laravel" />
+</p>
 
 ---
 
-## 🔥 Notable Projects
-- **Lottery Betting Platform** – Real-time betting, live results, admin dashboard  
-  🔗 https://www.shweshankan.com  
-- **GiveCredit (AU Home Loan Platform)** – Next.js, loan tools, booking, support  
-  🔗 https://www.givecredit.au  
-- **Car Dealer CRM** – Vehicle inspection, documentation, multi-team workflow  
-- **E-Commerce Shop** – React, payments, real-time chat, promos  
-- **Retail POS Systems** – Multi-branch, inventory, vouchers, reports  
-- **Clinic E-Record** – Appointments, treatment tracking, 2C2P payments  
+## 🌈 About Me
+💻 Web developer with **5+ years** of experience building modern, scalable, user-focused web apps.  
+⚡ Passionate about clean UI, high-performance systems, and solving real business problems.  
+🌍 Experienced working with teams across **Myanmar, Thailand, Singapore & Australia**.
 
 ---
 
-## 📫 Contact
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,redux,tailwind,vite,php,laravel,nodejs,express,mysql,git,docker" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🎰 **Lottery Betting Platform**
+Real-time betting, live results, admin dashboard, FCM notifications  
+🔗 https://www.shweshankan.com  
+
+### 🏡 **GiveCredit (Australian Home Loan Platform)**
+NextJS, loan tools, booking system, WhatsApp support  
+🔗 https://www.givecredit.au  
+
+### 🚗 **Car Dealer CRM**
+Vehicle inspection, documentation workflow, team collaboration  
+
+### 🛍 **E-Commerce Shop Platform**
+Secure payments, promo tools, real-time chat, responsive UI  
+
+### 🧾 **Retail POS System**
+Multi-branch control, inventory, supplier & employee management  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NayPaingSoe&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayPaingSoe&layout=compact&theme=tokyonight&border_radius=12" />
+</p>
+
+---
+
+## 📫 Contact Me
 📧 **naypaingsoe1011@gmail.com**  
-🌐 GitHub: https://github.com/NayPaingSoe
+🌐 **github.com/NayPaingSoe**  
 
+<p align="center">
+  ⭐ <i>Thank you for visiting my profile!</i> ⭐
+</p>
